@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "item_name": "Dell Inspiron 15 7568",
+            "item_price": "Rp 9.485.000",
+            "item_category": "Laptop",
+			"item_url":"http://mii-chat.3dolphins.ai/attachment/jdid-images/dell.jpg"
+        },
+        {
+            "item_name": "HP Pavilion Gaming 15 ec0001ax",
+            "item_price": "Rp 9.700.000",
+            "item_category": "Laptop",
+			"item_url":"http://mii-chat.3dolphins.ai/attachment/jdid-images/hppav.png"
+        },
+        {
+            "item_name": "Asus x450j",
+            "item_price": "Rp 10.850.000",
+            "item_category": "Laptop",
+			"item_url":"http://mii-chat.3dolphins.ai/attachment/jdid-images/asus.jpg"
+        },
+        {
+            "item_name": "Acer Swift 3 SF314 54G 85DR",
+            "item_price": "Rp 8.897.000",
+            "item_category": "Laptop",
+			"item_url":"http://mii-chat.3dolphins.ai/attachment/jdid-images/acerswift3.jpg"
+        },
+        {
+            "item_name": "Lenovo IdeaPad 320 1YiD",
+            "item_price": "Rp 10.098.000",
+            "item_category": "Laptop",
+			"item_url":"http://mii-chat.3dolphins.ai/attachment/jdid-images/lenovo.jpg"
+        },
+        {
+            "item_name": "Emporio Armani Hybrid Smartwatch",
+            "item_price": "Rp 3.800.000",
+            "item_category": "Jam",
+			"item_url":"http://mii-chat.3dolphins.ai/attachment/jdid-images/emporio.jpg"
+        },
+        {
+            "item_name": "Ted Baker Multifunction Leather Strap Watch",
+            "item_price": "Rp 2.300.000",
+            "item_category": "Jam",
+			"item_url":"http://mii-chat.3dolphins.ai/attachment/jdid-images/tedbaker.jpg"
+        },
+        {
+            "item_name": "Daniel Wellington Petite Mesh",
+            "item_price": "Rp 2.350.000",
+            "item_category": "Jam",
+			"item_url":"http://mii-chat.3dolphins.ai/attachment/jdid-images/daniel.jpg"
+        },
+        {
+            "item_name": "Michael Kors Slim Runway Bracelet Watch",
+            "item_price": "Rp 2.600.000",
+            "item_category": "Jam",
+			"item_url":"http://mii-chat.3dolphins.ai/attachment/jdid-images/michaelkors.jpg"
+        },
+        {
+            "item_name": "Nixon Time Teller",
+            "item_price": "Rp 1.400.000",
+            "item_category": "Jam",
+			"item_url":"http://mii-chat.3dolphins.ai/attachment/jdid-images/nixon.jpg"
+        }
+    ]
+}
